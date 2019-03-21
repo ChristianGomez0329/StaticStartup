@@ -3,6 +3,7 @@
     height:50px;
     position: relative;
 }
+
 .navbar sticky-top navbar-light{
     background: white;
     border-bottom: 6px solid rgb(255, 0, 0);
@@ -17,3 +18,32 @@
 .bd-example{
     display:block;
 }
+.navbar-brand{
+    text-align: center;
+}
+
+#content {
+    position: relative;
+}
+#content img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.wow{
+    text-align: center;
+}
+
+.vc_single_image-img{
+    width: 200px;
+    height: 200px;
+}
+<div id="navbarNav">
+    <img src="images/ribbon.png" class="ribbon"/>
+    <div>some text...</div>
+</div>
+
+
+*/ Look!*/ 
+https://kb.wpbakery.com/docs/wpbakery-page-builder-how-tos/how-to-control-elements-on-different-devices/
